@@ -78,7 +78,7 @@ Es la versión móvil de la aplicación construida con React Native para disposi
 - Firebase Autentication
 - Firestore Database
 - zustand
-
+- TypeScript
 1. Navega al directorio `VersionAndroid`
 2. Instala las dependencias:
     yarn
