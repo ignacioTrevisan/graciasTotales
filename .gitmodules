@@ -1,0 +1,9 @@
+[submodule "android"]
+	path = android
+	url = https://github.com/ignacioTrevisan/graciasTotales-versionAndroid
+[submodule "backend"]
+	path = backend
+	url = https://github.com/ignacioTrevisan/GraciasTotales-backend
+[submodule "nextjs"]
+	path = nextjs
+	url = https://github.com/NachoCuenta2/graciasTotales-v-Nextjs
